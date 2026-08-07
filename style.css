@@ -1,25 +1,55 @@
 body{
-    background-color:aquamarine
+    background-color:aquamarine;
     color: #222222;
     font-family:Arial, sans-serif;
 }
 
+header {
+  background-color: bisque;
+  color:#9ac499
+  text-align:center;
+  padding:30px;
+}
 
+ h1 {
+  font-size: 36px;
+ }
 
+h2}
+      color:#6b2d5c
+}
 
+    p{
+       font-size: 18px;
+       line-height: 1.6;
+    }
 
+            main {
+                width:80%; 
+                margin:auto;
+          }
 
+        section{
+            background-color: blanchedalmond;
+            margin: 20px 0;
+            padding: 20px;;
+            border-radius: 12px;
+        }
 
+        img {
+              width:100%; 
+              max-width:600px;
+              display: block;
+             margin:auto;
+             border-radius: 12px;
+        }
 
-
-
-
-
-
-
-
-
-
+        figcaption{
+            text-align:center;
+            font-size: 14px;
+            color:#555555
+            margin-top: 8px;      
+        }
 
 
 
