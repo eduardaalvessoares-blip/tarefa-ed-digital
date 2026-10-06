@@ -9,11 +9,11 @@ function curtir (){
          curtir = true;
     } else{
         contador.textContent--;
-        curtir = false
+        curtir = false;
     }
- }
-}
-
+ 
+   } 
+}};
 
 
 
