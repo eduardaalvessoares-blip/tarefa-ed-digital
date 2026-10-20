@@ -106,8 +106,9 @@ footer {
 }
 button {
    background-color:var(--cor-principal) ;
-   color:var()
-
+   color:var(--cor-clara);
+   border:none;
+   padding:
 
 
 
