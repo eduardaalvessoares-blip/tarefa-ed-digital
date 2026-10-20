@@ -1,3 +1,15 @@
+:root{
+    --cor-fundo:#f4f1ea;
+    --cor-texto:#28af1c;
+    --cor-principal:#6b2d5c;
+    --cor-secundaria:#aa381b;
+    --cor-hover:#8e5fdb;
+    --cor-superficie:white;
+    --cor-card:#5b9ac4;
+    --cor-legenda:#555555;
+    --cor-clara:white;
+    --cor-rodape:#222222;
+
 body{
     background-color:aquamarine;
     color: #222222;
